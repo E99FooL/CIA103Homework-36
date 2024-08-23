@@ -1,4 +1,4 @@
-package hw1;
+package HW1;
 public class HW1_4 {
 	    // 定義常數 PI
 private static final double PI = 3.1415;
