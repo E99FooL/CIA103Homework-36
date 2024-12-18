@@ -2,6 +2,6 @@
 bin/
 .classpath
 .project
-.DS_store
+.DS_Store
 *.idea
 *.iml
